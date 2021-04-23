@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prompts": "^2.4.1",
+    "txtgen": "^2.2.8"
+  }
+}
