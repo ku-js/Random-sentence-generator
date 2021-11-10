@@ -2,7 +2,7 @@ const txtgen = require('txtgen');
 const sentence = txtgen.sentence;
 const fs = require('fs');
 const prompts = require('prompts');
-process.title = 'Random Sentence generator by aga#0001'; // change this and you die (with help with 0J3 btw)
+process.title = 'Random Sentence generator by parakeet#0001'; // change this and you die (with help with 0J3 btw)
 
 const i = setInterval(() => {
 	console.log('Generating sentences');
